@@ -1,0 +1,4 @@
+aaa 47bce5c74f589f4867dbd57e9ca9f808 aaa aaa 1100
+bbb 08f8e0260c64418510cefb2b06eee5cd bbb bbb 0
+ccc 9df62e693988eb4e1e1444ece0578579 ccc ccc 700
+ddd 77963b7a931377ad4ab5ad6a9cd718aa ddd ddd 2000
